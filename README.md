@@ -50,6 +50,6 @@ const huuPhuc = {
 <div align="center" style="margin-top:40px; margin-bottom:20px;">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=huuphuc-nguyen&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuphuc-nguyen&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuphuc-nguyen&theme=tokyonight&hide_border=true"/>
 </div>
 
