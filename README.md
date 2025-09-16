@@ -23,6 +23,8 @@
 </div>
 <br/>
 
+[![An image of @huuphucnguyen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/huuphucnguyen)](https://holopin.io/@huuphucnguyen)
+
 ```ts
 const huuPhuc = {
   bio: 'Just a friendly coder who loves turning ideas into joyful experiences ☕',
